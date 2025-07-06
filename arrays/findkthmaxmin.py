@@ -18,5 +18,10 @@ def find_kth_max_min(arr, k):
     print(mini, maxi)
 
 find_kth_max_min([73, 21, 86, 38, 93, 65], 2)
+
+
+
+def find_kth_min_max(arr):
+    n= len(arr)
         
-            
+        

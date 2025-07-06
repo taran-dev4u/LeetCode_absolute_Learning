@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Food</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Georgia, serif;
+      background-color: #fff;
+      color: #222;
+    }
+    .navbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px 40px;
+    }
+    .menu-icon {
+      font-size: 24px;
+      cursor: pointer;
+    }
+    .nav-title {
+      font-size: 20px;
+      font-weight: normal;
+    }
+    .nav-link {
+      font-size: 16px;
+      text-decoration: none;
+      color: #222;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 20px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 40px;
+      margin: 40px 0;
+    }
+    .card {
+      text-align: center;
+    }
+    .card img {
+      width: 100%;
+      aspect-ratio: 4 / 3;
+      object-fit: cover;
+      display: block;
+      border-radius: 4px;
+    }
+    .card h2 {
+      font-size: 18px;
+      line-height: 1.2;
+      margin: 12px 0 8px;
+      color: #222;
+    }
+    .card p {
+      margin: 0 0 12px;
+      font-size: 14px;
+      line-height: 1.4;
+      color: #555;
+    }
+    .card p + p {
+      margin-top: 4px;
+    }
+    .pagination {
+      text-align: center;
+      margin: 40px 0 60px;
+    }
+    .pagination a {
+      margin: 0 6px;
+      text-decoration: none;
+      color: #222;
+      font-size: 14px;
+      padding: 6px 10px;
+      display: inline-block;
+    }
+    .pagination a.active {
+      background: #222;
+      color: #fff;
+      border-radius: 2px;
+    }
+    .pagination a:hover:not(.active) {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header class="navbar">
+    <div class="menu-icon">☰</div>
+    <div class="nav-title">My Food</div>
+    <a href="#" class="nav-link">Mail</a>
+  </header>
+
+  <main class="container">
+    <div class="grid">
+      <div class="card">
+        <img src="https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=400&h=300&q=80" alt="Perfect Sandwich">
+        <h2>The Perfect Sandwich, A Real NYC Classic</h2>
+        <p>Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum.</p>
+      </div>
+      <div class="card">
+        <img src="https://images.unsplash.com/photo-1551782450-a2132b4ba21d?auto=format&fit=crop&w=400&h=300&q=80" alt="Steak on Plate">
+        <h2>Let Me Tell You About This Steak</h2>
+        <p>Once again, some random text to lorem ipsum text praesent tincidunt ipsum lipsum.</p>
+      </div>
+      <div class="card">
+        <img src="https://images.unsplash.com/photo-1562339735-574c17efa0d4?auto=format&fit=crop&w=400&h=300&q=80" alt="Basket of Cherries">
+        <h2>Cherries, interrupted</h2>
+        <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
+        <p>What else?</p>
+      </div>
+      <div class="card">
+        <img src="https://images.unsplash.com/photo-1521389508051-d7ffb5dc8e5d?auto=format&fit=crop&w=400&h=300&q=80" alt="Pasta and Wine">
+        <h2>Once Again, Robust Wine and Vegetable Pasta</h2>
+        <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
+      </div>
+
+      <div class="card">
+        <img src="https://images.unsplash.com/photo-1505253219195-7e68d66ec67c?auto=format&fit=crop&w=400&h=300&q=80" alt="Popsicle">
+        <h2>All I Need Is a Popsicle</h2>
+        <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
+      </div>
+      <div class="card">
+        <img src="https://images.unsplash.com/photo-1555992336-03a23c28d878?auto=format&fit=crop&w=400&h=300&q=80" alt="Salmon Dish">
+        <h2>Salmon For Your Skin</h2>
+        <p>Once again, some random text to lorem ipsum text praesent tincidunt ipsum lipsum.</p>
+      </div>
+      <div class="card">
+        <img src="https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=400&h=300&q=80" alt="Perfect Sandwich Again">
+        <h2>The Perfect Sandwich, A Real Classic</h2>
+        <p>Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum.</p>
+      </div>
+      <div class="card">
+        <img src="https://images.unsplash.com/photo-1504041055334-3013ff6d32e7?auto=format&fit=crop&w=400&h=300&q=80" alt="French Array">
+        <h2>Le French</h2>
+        <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
+      </div>
+    </div>
+
+    <nav class="pagination">
+      <a href="page1.html">«</a>
+      <a href="index.html" class="active">1</a>
+      <a href="page2.html">2</a>
+      <a href="page3.html">3</a>
+      <a href="page4.html">4</a>
+      <a href="page2.html">»</a>
+    </nav>
+  </main>
+</body>
+</html>
