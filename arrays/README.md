@@ -1,5 +1,5 @@
 # Arrays & Strings
-**Array**
+## **Array**
 ●	Reverse the array
 ●	Find the maximum and minimum element in an array
 ●	Find the Kth max and min element of an array
@@ -8,7 +8,7 @@
 ●	Find the Union and Intersection of the two sorted arrays.
 ●	Write a program to cyclically rotate an array by one
 ●	find Largest sum contiguous Subarray [IV. IMPI]
-●	Minimise the maximum difference between heights [VIMP]
+●	**Minimise the maximum difference between heights** [VIMP]
 ●	Minimum no. of Jumps to reach end of an array
 ●	find duplicate in an array of N+1 Integers
 ●	Merge 2 sorted arrays without using Extra space (Note: PDF says "Merge Z sorted arrays")

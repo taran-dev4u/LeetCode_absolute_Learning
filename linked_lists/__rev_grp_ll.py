@@ -31,7 +31,6 @@ def rev_ll_in_grps(head, k):
 
 
 
-
 arr = [3, 1, 7, 4, 9, 8, 6, 2, 1]
 head = build_list(arr)
 printLL(rev_ll_in_grps(head, 3))
