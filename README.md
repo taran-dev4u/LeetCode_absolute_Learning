@@ -60,11 +60,13 @@ algomap-dsa-journey/
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0349-intersection-of-two-arrays) |
 ## Math
@@ -83,10 +85,19 @@ algomap-dsa-journey/
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0349-intersection-of-two-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
