@@ -61,10 +61,12 @@ algomap-dsa-journey/
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +75,7 @@ algomap-dsa-journey/
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,4 +84,9 @@ algomap-dsa-journey/
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0349-intersection-of-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
