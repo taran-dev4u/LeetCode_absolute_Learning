@@ -60,6 +60,7 @@ algomap-dsa-journey/
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0349-intersection-of-two-arrays) |
@@ -76,6 +77,7 @@ algomap-dsa-journey/
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
@@ -100,4 +102,8 @@ algomap-dsa-journey/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
