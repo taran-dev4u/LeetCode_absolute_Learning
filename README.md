@@ -60,6 +60,7 @@ algomap-dsa-journey/
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
@@ -106,10 +107,12 @@ algomap-dsa-journey/
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
