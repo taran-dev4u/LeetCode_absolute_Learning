@@ -58,8 +58,8 @@ algomap-dsa-journey/
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0074-search-a-2d-matrix) |
@@ -69,59 +69,68 @@ algomap-dsa-journey/
 | [0898-transpose-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0898-transpose-matrix) |
 | [3533-snake-in-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/3533-snake-in-matrix) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0349-intersection-of-two-arrays) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0169-majority-element) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0169-majority-element) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0898-transpose-matrix) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0898-transpose-matrix) |
 | [3533-snake-in-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/3533-snake-in-matrix) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3533-snake-in-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/3533-snake-in-matrix) |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 <!---LeetCode Topics End-->
