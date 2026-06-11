@@ -1,6 +1,6 @@
 # 🚀 CP Practice (Python)
 
-Welcome to my personal learning journey through the [AlgoMap.io](https://algomap.io/)! This GitHub repository is where I practice, document, and track progress as I work through a structured series of DSA problems using **Python**.
+Welcome to my personal learning journey! This GitHub repository is where I practice, document, and track progress as I work through a structured series of DSA problems using **Python**.
 
 ---
 
