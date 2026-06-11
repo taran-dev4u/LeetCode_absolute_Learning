@@ -60,6 +60,7 @@ algomap-dsa-journey/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0074-search-a-2d-matrix) |
@@ -77,6 +78,7 @@ algomap-dsa-journey/
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/0048-rotate-image/) | Medium |
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Search
@@ -110,6 +112,7 @@ algomap-dsa-journey/
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0074-search-a-2d-matrix) |
