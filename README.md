@@ -72,6 +72,7 @@ algomap-dsa-journey/
 | [0867-transpose-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/0867-transpose-matrix/) | Easy |
 | [0898-transpose-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0898-transpose-matrix) |
 | [3533-snake-in-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/3533-snake-in-matrix) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@ algomap-dsa-journey/
 | [0048-rotate-image](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/0048-rotate-image/) | Medium |
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +97,7 @@ algomap-dsa-journey/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,12 +142,18 @@ algomap-dsa-journey/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/0238-product-of-array-except-self/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 <!---LeetCode Topics End-->
