@@ -137,11 +137,13 @@ algomap-dsa-journey/
 | [0867-transpose-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/0867-transpose-matrix/) | Easy |
 | [0898-transpose-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0898-transpose-matrix) |
 | [3533-snake-in-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/3533-snake-in-matrix) |
+| [3612-process-string-with-special-operations-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3838-weighted-word-mapping/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3533-snake-in-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/3533-snake-in-matrix) |
+| [3612-process-string-with-special-operations-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
