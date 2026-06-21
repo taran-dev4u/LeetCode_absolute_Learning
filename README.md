@@ -72,6 +72,7 @@ algomap-dsa-journey/
 | [0867-transpose-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/0867-transpose-matrix/) | Easy |
 | [0898-transpose-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0898-transpose-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1840-maximum-building-height/) | Hard |
 | [3533-snake-in-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/3533-snake-in-matrix) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -109,6 +110,7 @@ algomap-dsa-journey/
 | [0169-majority-element](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0349-intersection-of-two-arrays) |
+| [1833-maximum-ice-cream-bars](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1840-maximum-building-height/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -180,4 +182,12 @@ algomap-dsa-journey/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
