@@ -84,6 +84,7 @@ algomap-dsa-journey/
 | [0169-majority-element](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0349-intersection-of-two-arrays) |
+| [1189-maximum-number-of-balloons](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +127,7 @@ algomap-dsa-journey/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +152,7 @@ algomap-dsa-journey/
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3533-snake-in-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/3533-snake-in-matrix) |
 | [3612-process-string-with-special-operations-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
