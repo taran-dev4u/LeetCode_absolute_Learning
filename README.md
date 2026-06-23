@@ -172,10 +172,12 @@ algomap-dsa-journey/
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3699-number-of-zigzag-arrays-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
