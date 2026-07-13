@@ -222,6 +222,7 @@ algomap-dsa-journey/
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
