@@ -77,6 +77,7 @@ algomap-dsa-journey/
 | [1833-maximum-ice-cream-bars](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1840-maximum-building-height/) | Hard |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3533-snake-in-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/3533-snake-in-matrix) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -99,6 +100,7 @@ algomap-dsa-journey/
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1840-maximum-building-height/) | Hard |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -191,6 +193,7 @@ algomap-dsa-journey/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -236,4 +239,8 @@ algomap-dsa-journey/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 <!---LeetCode Topics End-->
