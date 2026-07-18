@@ -78,6 +78,7 @@ algomap-dsa-journey/
 | [1840-maximum-building-height](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3533-snake-in-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/3533-snake-in-matrix) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -94,6 +95,7 @@ algomap-dsa-journey/
 | [1189-maximum-number-of-balloons](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -103,6 +105,7 @@ algomap-dsa-journey/
 | [1344-angle-between-hands-of-a-clock](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -115,6 +118,7 @@ algomap-dsa-journey/
 | [0074-search-a-2d-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0349-intersection-of-two-arrays) |
+| [3312-sorted-gcd-pair-queries](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +151,7 @@ algomap-dsa-journey/
 | ------- | ------- |
 | [0169-majority-element](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -195,6 +200,7 @@ algomap-dsa-journey/
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Dynamic Programming
@@ -251,7 +257,12 @@ algomap-dsa-journey/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
