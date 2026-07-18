@@ -76,6 +76,7 @@ algomap-dsa-journey/
 | [1732-find-the-highest-altitude](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1840-maximum-building-height/) | Hard |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3533-snake-in-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/3533-snake-in-matrix) |
@@ -101,6 +102,7 @@ algomap-dsa-journey/
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1840-maximum-building-height/) | Hard |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -248,6 +250,7 @@ algomap-dsa-journey/
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
