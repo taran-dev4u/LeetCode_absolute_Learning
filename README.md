@@ -71,6 +71,7 @@ algomap-dsa-journey/
 | [0349-intersection-of-two-arrays](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0349-intersection-of-two-arrays) |
 | [0867-transpose-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/0867-transpose-matrix/) | Easy |
 | [0898-transpose-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0898-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -163,6 +164,7 @@ algomap-dsa-journey/
 | [0074-search-a-2d-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/0867-transpose-matrix/) | Easy |
 | [0898-transpose-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0898-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -171,6 +173,7 @@ algomap-dsa-journey/
 | [0059-spiral-matrix-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/0867-transpose-matrix/) | Easy |
 | [0898-transpose-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0898-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1260-shift-2d-grid/) | Easy |
 | [3533-snake-in-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/3533-snake-in-matrix) |
 | [3612-process-string-with-special-operations-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
