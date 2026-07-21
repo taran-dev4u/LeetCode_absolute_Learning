@@ -183,6 +183,7 @@ algomap-dsa-journey/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [3499-maximize-active-section-with-trade-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3533-snake-in-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/3533-snake-in-matrix) |
 | [3612-process-string-with-special-operations-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -244,6 +245,7 @@ algomap-dsa-journey/
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
