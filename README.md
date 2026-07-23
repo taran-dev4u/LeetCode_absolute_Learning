@@ -81,6 +81,7 @@ algomap-dsa-journey/
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3533-snake-in-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/3533-snake-in-matrix) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -108,6 +109,7 @@ algomap-dsa-journey/
 | [1979-find-greatest-common-divisor-of-array](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -124,6 +126,7 @@ algomap-dsa-journey/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
