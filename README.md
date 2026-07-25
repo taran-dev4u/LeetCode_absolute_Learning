@@ -110,6 +110,7 @@ algomap-dsa-journey/
 | [3312-sorted-gcd-pair-queries](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -137,6 +138,7 @@ algomap-dsa-journey/
 | [1331-rank-transform-of-an-array](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1840-maximum-building-height/) | Hard |
+| [3536-maximum-product-of-two-digits](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
