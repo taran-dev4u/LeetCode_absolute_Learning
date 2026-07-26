@@ -69,6 +69,7 @@ algomap-dsa-journey/
 | [0238-product-of-array-except-self](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0867-transpose-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/0867-transpose-matrix/) | Easy |
 | [0898-transpose-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0898-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1260-shift-2d-grid/) | Easy |
@@ -104,6 +105,7 @@ algomap-dsa-journey/
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/0048-rotate-image/) | Medium |
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -135,6 +137,7 @@ algomap-dsa-journey/
 | [0169-majority-element](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1840-maximum-building-height/) | Hard |
