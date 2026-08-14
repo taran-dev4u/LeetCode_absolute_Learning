@@ -98,6 +98,7 @@ algomap-dsa-journey/
 | [1189-maximum-number-of-balloons](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Math
@@ -192,6 +193,7 @@ algomap-dsa-journey/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3533-snake-in-matrix](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/master/3533-snake-in-matrix) |
@@ -286,4 +288,8 @@ algomap-dsa-journey/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/taran-dev4u/LeetCode_absolute_Learning/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 <!---LeetCode Topics End-->
